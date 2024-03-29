@@ -4,7 +4,9 @@ Soy un estudiante egresado de la carrera de Ingeniería Civil Industrial en la U
 Me gustaría mucho desarrollar un carrera en torno a los datos, ya sea de Data Analyst o Data Scientist. Las áreas en donde tengo conocimiento ya sea debido a mi trabajo de tesis de mi pregrado y en mi actual trabajo es Procesamiento de Lenguaje Natural. 
 Actualmente desempeño un cargo de Data Analyst en el Subgerenecia de Marketing Digital de la Empresa Claro VTR.
 ## Expectativas respecto de la vida en general.
-Me gustaría que 
+Me gustaría que mis méritos laborales y académico me den la oportunidad de migrar a Nueva Zelanda. Me gusta mucho ese país, sobre todo en el ámbito de seguridad y oportunidades laborales, sobre todo teniendo en cuenta mis intenciones de formar una familia.
+## Pasatiempos favoritos.
+De manera general, mi pasatiempo favorito es aprender cosas nuevas. Debido a esto se debe mi gusto por practicar deportes nuevos, como los son tenis y pádel.
 <!--
 **tommyguzman/tommyguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
