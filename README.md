@@ -2,7 +2,7 @@
 Soy un estudiante egresado de la carrera de Ingeniería Civil Industrial en la Universidad de Chile y estudiante del Master of Data Science de la misma universidad
 ## Expectativas en cuanto a lo laboral 
 Me gustaría mucho desarrollar un carrera en torno a los datos, ya sea de Data Analyst o Data Scientist. Las áreas en donde tengo conocimiento ya sea debido a mi trabajo de tesis de mi pregrado y en mi actual trabajo es Procesamiento de Lenguaje Natural. 
-Actualmente desempeño un cargo de Data Analyst en el Subgerenecia de Marketing Digital de la Empresa Claro VTR.
+Actualmente desempeño un cargo de Data Analyst en el Subgerencia de Marketing Digital de la Empresa Claro VTR.
 ## Expectativas respecto de la vida en general.
 Me gustaría que mis méritos laborales y académico me den la oportunidad de migrar a Nueva Zelanda. Me gusta mucho ese país, sobre todo en el ámbito de seguridad y oportunidades laborales, sobre todo teniendo en cuenta mis intenciones de formar una familia.
 ## Pasatiempos favoritos.
